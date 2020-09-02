@@ -46,3 +46,4 @@ def headlinesFromMDFiles(filePaths):
 if __name__ == "__main__":
     headlinesFromMDFiles(
         ['/home/jovyan/my_notebooks/my_data/exercise02/markdown.md'])
+    foldersToFile('/home/jovyan/my_notebooks/my_modules')
