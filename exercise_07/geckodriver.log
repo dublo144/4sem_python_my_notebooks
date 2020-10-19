@@ -1,0 +1,44 @@
+1602577660786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUxu5MA"
+Error: no DISPLAY environment variable specified
+1602577766541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJbm1hR"
+Error: no DISPLAY environment variable specified
+1602577901898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelr93k0"
+Error: no DISPLAY environment variable specified
+1602578073795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles5NGaa"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602578075968	Marionette	INFO	Listening on port 34403
+1602578076001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602578113226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4mAtZ7"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602578115199	Marionette	INFO	Listening on port 39083
+1602578115231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602578145875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1gQkUv"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602578147821	Marionette	INFO	Listening on port 39675
+1602578147883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602578301424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAw4BKP"
+Error: no DISPLAY environment variable specified
+1602578541208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTlGIVU"
+Error: no DISPLAY environment variable specified
+1602578546492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSo8rcL"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602578548506	Marionette	INFO	Listening on port 46219
+1602578548599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602578936545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej4alc5"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602578938605	Marionette	INFO	Listening on port 41585
+1602578938653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602578941304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3R90x2"
+Error: no DISPLAY environment variable specified
+1602578960784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeyEhDn"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602578963102	Marionette	INFO	Listening on port 39421
+1602578963191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602579147830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRzW64P"
+Error: no DISPLAY environment variable specified
