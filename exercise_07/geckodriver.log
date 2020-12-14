@@ -42,3 +42,5 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1602578963191	Marionette	WARN	TLS certificate errors will be ignored for this session
 1602579147830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRzW64P"
 Error: no DISPLAY environment variable specified
+1607337075262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileObK1XA"
+Error: no DISPLAY environment variable specified
