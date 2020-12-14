@@ -22,8 +22,6 @@ import pymongo
 import pandas as pd
 
 BASE_SEARCH_URL = 'https://bilhandel.dk/alle-biler/side-'
-client = pymongo.MongoClient(
-    "mongodb+srv://dublo:Anton1993!@cluster0.wabpp.mongodb.net/python_exam?retryWrites=true&w=majority")
 db = client.python_exam
 collection = db.cars
 
