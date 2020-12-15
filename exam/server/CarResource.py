@@ -8,8 +8,7 @@ import json
 from bson import ObjectId
 
 
-client = pymongo.MongoClient(
-    "mongodb+srv://dublo:Anton1993!@cluster0.wabpp.mongodb.net/cars?retryWrites=true&w=majority")
+client = pymongo.MongoClient()
 db = client.python_exam
 collection = db.cars
 
