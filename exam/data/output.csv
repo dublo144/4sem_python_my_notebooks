@@ -1,0 +1,21 @@
+,Farve,Hestekræfter,Brændstoftype,Biltype,Registreringsdato,Antal døre,Nypris,Antal gear,Cylindre,Trækhjul,Max påhæng,Tank,Km/l,0 - 100 km/t,Tophastighed,Vægt,Lasteevne,Airbags,Grøn Ejerafgift,Gearkasse,Årgang,Kilometer,Model,Pris,Link,Make
+0,Hvid,120,Diesel,MPV,28-04-2016,5,297220,6,4,Forhjul,1200,53,"24,4","11,3",184,1403,512,6,3020,Manuel,2016,107000,"C-MAX 1,5 TDCi 120 Titanium",149800,/ford-c-max-15-tdci-120-titanium/id-883318,Ford
+1,Hvid,150,El,Hatchback,23-09-2020,5,330915,1,,Baghjul,,,"71,1","8,5",160,1805,465,7,660,Automatisk,2020,1000,ID.3 1ST,334900,/vw-id3-1st/id-883367,VW
+2,Sortmetal,130,Diesel,Stationcar,22-07-2016,5,405900,6,4,Forhjul,1850,47,25,"10,8",205,1491,661,6,2180,Manuel,2016,168000,"Talisman 1,6 dCi 130 Zen ST",149800,/renault-talisman-16-dci-130-zen-st/id-883317,Renault
+3,Gråmetal,82,Benzin,Hatchback,28-09-2017,5,149990,5,3,Forhjul,825,50,"23,8","14,5",178,1170,360,6,660,Automatisk,2017,44900,"208 1,2 e-VTi 82 Envy ESG",129500,/peugeot-208-12-e-vti-82-envy-esg/id-883366,Peugeot
+4,Hvid,120,Diesel,Stationcar,28-04-2016,5,383000,6,4,Forhjul,1500,66,"23,8",11,204,1385,675,7,3020,Manuel,2016,136000,"Superb 1,6 TDi 120 Ambition Combi",189800,/skoda-superb-16-tdi-120-ambition-combi/id-883316,Skoda
+5,Grønmetal,136,Diesel,Stationcar,25-02-2016,5,452000,6,4,Forhjul,1700,70,"24,4","11,4",205,1589,687,8,3020,Manuel,2016,159000,"Insignia 1,6 CDTi 136 Cosmo ST",138000,/opel-insignia-16-cdti-136-cosmo-st/id-883285,Opel
+6,,122,Benzin,Stationcar,19-12-2002,5,311495,5,4,Forhjul,1200,60,"12,8","10,5",200,1250,525,6,4360,Manuel,2002,267000,"V40 1,8",Ring,/volvo-v40-18/id-883289,Volvo
+7,Gråmetal,69,Benzin,Hatchback,30-05-2012,5,140998,5,3,Forhjul,750,42,"20,8",,155,945,485,7,660,Manuel,2012,138000,"Yaris 1,0 VVT-i T1",49900,/toyota-yaris-10-vvt-i-t1/id-883246,Toyota
+8,Sølvmetal,150,Diesel,Stationcar,13-10-2003,5,728803,6,4,Baghjul,1500,62,"15,2","10,5",218,1500,625,8,8220,Manuel,2004,399000,"C220 2,2 CDi Elegance stc.",29500,/mercedes-c220-22-cdi-elegance-stc/id-883299,Mercedes
+9,Gråmetal,170,Diesel,Sedan,16-04-2008,4,773000,5,4,Baghjul,1800,66,"14,9","8,4",227,1505,585,6,9100,Automatisk,2008,228000,"C220 2,2 CDi Avantgarde aut.",89900,/mercedes-c220-22-cdi-avantgarde-aut/id-883264,Mercedes
+10,,110,Diesel,Stationcar,01-06-2005,5,294219,5,4,Forhjul,1500,60,"18,5","12,7",183,1375,620,6,6540,Manuel,2005,299000,"307 2,0 HDi 110 stc.",Ring,/peugeot-307-20-hdi-110-stc/id-883288,Peugeot
+11,Gråmetal,136,El,Hatchback,20-08-2019,5,226015,1,,Forhjul,,,"71,6","9,6",150,1515,505,7,660,Automatisk,2020,9000,e-Golf VII,234800,/vw-e-golf-vii/id-883303,VW
+12,Mørkgrå,150,Benzin,MPV,23-05-2011,5,323252,6,4,Forhjul,1500,55,"15,2","9,4",204,1285,615,6,3140,Manuel,2011,190000,"C-MAX 1,6 SCTi 150 Titanium",74500,/ford-c-max-16-scti-150-titanium/id-883298,Ford
+13,Sort,110,Diesel,SUV,29-07-2016,5,357800,6,4,Forhjul,1350,60,"25,6","11,9",182,1355,561,6,2180,Manuel,2016,76000,"Kadjar 1,5 dCi 110 Bose Edition",179900,/renault-kadjar-15-dci-110-bose-edition/id-883365,Renault
+14,,60,Benzin,Hatchback,01-12-2004,5,119926,5,4,Forhjul,800,35,"17,9",14,155,835,470,6,1880,Manuel,2004,177000,"Panda 1,2 Dynamic",11900,/fiat-panda-12-dynamic/id-883233,Fiat
+15,,105,Benzin,Hatchback,26-03-2014,5,,6,4,Forhjul,1300,50,"20,4",10,191,1098,602,7,660,Manuel,2014,143000,"Leon 1,2 TSi 105 I-Tech",Ring,/seat-leon-12-tsi-105-i-tech/id-883287,Seat
+16,Grå,125,Benzin,Hatchback,08-05-2006,5,318898,5,4,Forhjul,1500,59,13,"10,9",205,1313,552,4,4360,Manuel,2006,199000,"Mondeo 1,8 Trend",14900,/ford-mondeo-18-trend/id-883297,Ford
+17,Gråmetal,115,Diesel,MPV,04-12-2014,5,345875,6,4,Forhjul,,55,25,"12,6",189,1295,645,7,2180,Automatisk,2015,134000,"Grand C4 Picasso 1,6 e-HDi 115 Intensive ETG6",144500,/citroen-grand-c4-picasso-16-e-hdi-115-intensive-etg6/id-883368,Citroën
+18,Sortmetal,190,Diesel,Stationcar,24-11-2016,5,657073,8,4,Baghjul,2000,70,"22,2",8,226,1710,665,6,3880,Automatisk,2017,56000,"520d 2,0 Touring aut.",349900,/bmw-520d-20-touring-aut/id-883375,BMW
+19,Blå,65,Benzin,Hatchback,13-03-2013,5,128963,5,3,Forhjul,500,42,"23,3","16,9",155,954,576,7,660,Manuel,2013,166000,"Fiesta 1,0 65 Trend",59800,/ford-fiesta-10-65-trend/id-883231,Ford

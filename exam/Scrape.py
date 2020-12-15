@@ -136,6 +136,7 @@ def writeUrlsToFile(urls):
 
 
 def write_to_db(data):
+    # clean dict from . a
     collection.insert_many(data)
 
 
